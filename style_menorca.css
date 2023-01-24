@@ -1,5 +1,16 @@
 body {
     background-color: #f2f2f2;
+
+    background-color: #f2f2f2;
+
+    height: 1210px;
+    background-image: url("https://static.eldiario.es/clip/e9c4dba8-b346-444a-8291-5e54d6bd0c62_16-9-discover-aspect-ratio_default_0.jpg");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+
+
+
 }
 
 h1 {
@@ -12,7 +23,7 @@ h1 {
 }
 
 .box {
-    background-color: #ffffff;
+    background-color: #f1ebb6;
     padding: 20px;
     margin-top: 20px;
 }
