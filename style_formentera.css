@@ -1,5 +1,14 @@
 body {
     background-color: #f2f2f2;
+
+
+    height: 955px;
+    background-image: url("https://www.torralbadensalort.com/static/uploads/taula_i_talaiot_est_retunadjustednonraw_thumb_5ebe2.jpg");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+
+
 }
 
 ul {
