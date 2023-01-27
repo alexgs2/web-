@@ -11,7 +11,6 @@
   <meta http-equiv="cache-control" content="no-cache" />
   <link rel="stylesheet" href="/css/style.css">
 </head>
-
 <body>
   <ul>
     <li><a href="index.html">Home</a></li>
@@ -36,7 +35,7 @@
   <div class="container">
    
     <div class="box"> 
-      <h2> <a href="/talayot/talayot_trepuco.html">Talayot de Trepucó </h2> </a>
+      <h2>Talayot de Trepucó </h2> 
       <p>Este es uno de los talayots más grandes de Menorca,
          y se encuentra en el municipio de Ferreries.
           Se cree que fue construido en el siglo III a.C.
