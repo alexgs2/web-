@@ -2,9 +2,10 @@
 /* Imagen de fondo  */
 
 body {
+    display: flex;
+flex-direction: column;
     background-color: #f2f2f2;
-    height: 940px;
-    background-image: url("https://media.egorealestate.com/ORIGINAL/f8042013-323d-4055-9e49-3165da045376.jpg");
+    background-image: url("https://centrodavinci.es/wp-content/uploads/2019/05/Historia-Espa%C3%B1a.jpg");
     
     background-size: cover;
     background-repeat:no-repeat;
@@ -67,6 +68,12 @@ p{
 }
 #mapa{
     text-align: center;
+}
+#mapa2{
+    padding: 70px;
+    text-align: center;
+    border: 1px s;
+    border-width: 2px;
 }
 
 
