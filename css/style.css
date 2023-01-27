@@ -1,7 +1,11 @@
+
+/* Imagen de fondo  */
+
 body {
     background-color: #f2f2f2;
     height: 940px;
     background-image: url("https://media.egorealestate.com/ORIGINAL/f8042013-323d-4055-9e49-3165da045376.jpg");
+    
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center center;
@@ -19,7 +23,7 @@ h1,h2 {
     width: 80%;
     margin: 0 auto;
 }
-
+/* Cajas flotantes  */
 .box {
     background-color: #f1ebb6;
     padding: 20px;
@@ -47,6 +51,8 @@ li a {
 li a:hover {
     background-color: grey;
 }
+
+/* Pie de pagina */
 
 .footer {
     background-color: grey;
